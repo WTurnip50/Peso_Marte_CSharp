@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TECNM.PRACTICA1/1.0.0": {
+        "dependencies": {
+          "Tecnm.Practica1.Core": "1.0.0"
+        },
+        "runtime": {
+          "TECNM.PRACTICA1.dll": {}
+        }
+      },
+      "Tecnm.Practica1.Core/1.0.0": {
+        "runtime": {
+          "Tecnm.Practica1.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TECNM.PRACTICA1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tecnm.Practica1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
